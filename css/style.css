@@ -69,9 +69,9 @@ html, body {
 
 .preloader .center-preloader h1 {
     font-family: Merriweather;
-    font-size: 5rem;
+    font-size:80px;
     font-weight: 700;
-    letter-spacing: .5rem;
+    letter-spacing: 4px;
     color: #fec600;
     text-transform: capitalize;
     position: relative;
@@ -85,10 +85,10 @@ html, body {
         width: 0;
     }
     25% {
-        width: 486.04px;
+        width: 440px;
     }
     50% {
-        width: 486.04px;
+        width: 440px;
     }
     75% {
         width: 0;
@@ -100,7 +100,7 @@ html, body {
 
 .preloader .center-preloader::after {
     content: "";
-    width: .2rem;
+    width: 2px;
     height: 100%;
     background-color: #fec600;
     position: absolute;

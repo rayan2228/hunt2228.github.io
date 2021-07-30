@@ -43,6 +43,9 @@
     nav ul li a:after {
         display: none;
     }
+    nav ul li .active {
+        color: #fff !important;
+    }
     #banner-part {
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
