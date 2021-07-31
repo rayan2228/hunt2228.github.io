@@ -244,7 +244,7 @@ setTimeout(() => {
 $(".backtotop").click(function () {
   $("html,body").animate({
     scrollTop: 0
-  }, )
+  })
 })
 
 $(window).scroll(function () {
@@ -284,3 +284,5 @@ $(".green").click(function () {
   $(".logo").attr("src", "images/green-logo.png")
   $(".fav").attr("href", "images/greenfav.jpg")
 })
+
+
