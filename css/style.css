@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
 }
-
 ul, ol {
     list-style: none;
     padding: 0;
+
 }
 
 a {
@@ -69,7 +69,7 @@ body{
     -webkit-box-reflect: below 5px linear-gradient(to bottom, rgba(3, 37, 108, 0), rgb(57, 162, 219, 0.4));
 }
 
-.preloader .center-preloader h1 {
+.preloader .center-preloader h2 {
     font-family: Merriweather;
     font-size:80px;
     font-weight: 700;
